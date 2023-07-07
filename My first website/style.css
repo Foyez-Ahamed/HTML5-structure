@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading h1{
+    text-align: center;
+    color:brown;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.heading-p{
+    padding: 20px 40px;
+}
+
+.heading-p p{
+    text-transform: uppercase;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 25px;
+    color: blue;
+}
+
+.heading-p .btn{
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #fff;
+}
+
+.heading-p .s-1{
+    display: block;
+
+    padding: 20px 0;
+}
